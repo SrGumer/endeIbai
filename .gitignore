@@ -1,2 +1,5 @@
 ##Se ignoraran todos los archivos que empeicen por prueba
 prueba?.*
+
+##Se ignoraran todos los archivos temproales que acaben en tmp
+*.tmp
